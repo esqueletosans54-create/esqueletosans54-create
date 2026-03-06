@@ -18,7 +18,11 @@
 
 ## 🌟 Undertale
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/imagem.png" width="200">
+<p align="center">
+<img src="<p align="center">
+<img src="https://pa1.aminoapps.com/6374/9d0c4c3f61e1e7c2c1c6c4d7a0f6b5c5e6c8e7a6_hq.gif" width="500">
+</p>" width="500">
+</p>
 
 ## 🔥 Dias programando
 
