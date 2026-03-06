@@ -11,7 +11,7 @@
 ## 🧠 Linguagens
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,java,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,java,python,mysql">
 </p>
 
 ---
