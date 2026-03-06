@@ -16,10 +16,11 @@
 
 ---
 
-## 📊 Estatísticas
+## 🌟 Undertale
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esqueletosans54-create&show_icons=true&theme=tokyonight&hide_border=true)
-
+<p align="center">
+<img src="https://static.wikia.nocookie.net/undertale/images/3/3f/Undertale_characters.png" width="600">
+</p>
 ## 🔥 Dias programando
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=esqueletosans54-create&theme=dark)
