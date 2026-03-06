@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou João
 
-<!--
-**esqueletosans54-create/esqueletosans54-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💀 Usuário: **esqueletosans54-create**  
+💻 Programador iniciante  
+🎮 Fã de Undertale  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Linguagens que eu uso
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,java,python"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esqueletosans54-create&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esqueletosans54-create&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Sobre mim
+
+- 💻 Programo em **HTML, CSS, Java e Python**
+- 🎮 Gosto muito de **Undertale**
+- 📚 Sempre aprendendo programação
+
+---
+
+## 💀 Undertale
+
+<p align="center">
+<img src="https://media.tenor.com/7Vn9o6x4AAAAAC/sans-undertale.gif" width="200">
+</p>
+
+> "You're gonna have a bad time." — Sans
+
+---
+
+⭐ Obrigado por visitar meu perfil!
