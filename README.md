@@ -19,8 +19,9 @@
 ## 🌟 Undertale
 
 <p align="center">
-<img src="https://static.wikia.nocookie.net/undertale/images/3/3f/Undertale_characters.png" width="600">
+<img src="https://i.redd.it/1fc4ode.png" width="600">
 </p>
+
 ## 🔥 Dias programando
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=esqueletosans54-create&theme=dark)
