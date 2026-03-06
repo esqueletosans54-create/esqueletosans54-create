@@ -4,7 +4,7 @@
 
 🎮 Fã de Undertale  
 💻 Programador  
-🔥 HTML • CSS • Java • Python
+🔥 HTML • CSS • Java • Python • MySQL
 
 ---
 
