@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=200&section=header&text=esqueletosans54-create&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=200&section=header&text=esqueletosans&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 
 # 💀 Olá humano...
 
