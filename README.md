@@ -18,19 +18,11 @@
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esqueletosans54-create&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esqueletosans54-create&show_icons=true&theme=dark&cache_seconds=1800)
+## 🔥 Dias programando
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esqueletosans54-create&layout=compact&theme=dark)
----
-
-## 🔥 Sequência de dias programando
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=esqueletosans54-create&theme=tokyonight"/>
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=esqueletosans54-create&theme=dark)
 ---
 
 ## 🐍 Animação das contribuições
