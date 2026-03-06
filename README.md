@@ -18,9 +18,7 @@
 
 ## 🌟 Undertale
 
-<p align="center">
-<img src="https://i.redd.it/1fc4ode.png" width="600">
-</p>
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/imagem.png" width="200">
 
 ## 🔥 Dias programando
 
