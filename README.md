@@ -18,14 +18,11 @@
 
 ## 📊 Estatísticas
 
-<p align="center">
+## 📊 Estatísticas
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=esqueletosans54-create&show_icons=true&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esqueletosans54-create&show_icons=true&theme=dark&cache_seconds=1800)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esqueletosans54-create&layout=compact&theme=tokyonight"/>
-
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esqueletosans54-create&layout=compact&theme=dark)
 ---
 
 ## 🔥 Sequência de dias programando
