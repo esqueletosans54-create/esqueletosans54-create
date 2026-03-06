@@ -46,8 +46,11 @@
 
 ## 🎮 Undertale
 
+## 💀 Undertale
+
 <p align="center">
-<img src="https://media.tenor.com/On7kvXhzml4AAAAj/sans.gif" width="200">
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="0">
+<img src="https://media.giphy.com/media/UCkZPALajEs8M/giphy.gif" width="220">
 </p>
 
 ---
